@@ -153,6 +153,8 @@ To convert the "launch_date" and "end_date" UTC times to the datetime format, se
 
 *Note* 
 https://docs.python.org/3.6/library/stdtypes.html#str.split
+https://stackoverflow.com/questions/29339525/python-short-way-of-creating-a-sequential-list-with-a-prefix
+
 
 For more information about how to add the "category_id" and "subcategory_id" unique identification numbers to the campaign DataFrame, see the pandas.DataFrame.mergeLinks to an external site. in the Pandas documentation.
 
