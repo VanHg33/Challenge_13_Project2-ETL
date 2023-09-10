@@ -150,6 +150,10 @@ To convert the "goal" and "pledged" columns to the float data type, use the asty
 
 To convert the "launch_date" and "end_date" UTC times to the datetime format, see the Transform_Grocery_Orders_Solved.ipynb activity solution.
 
+
+*Note* 
+https://docs.python.org/3.6/library/stdtypes.html#str.split
+
 For more information about how to add the "category_id" and "subcategory_id" unique identification numbers to the campaign DataFrame, see the pandas.DataFrame.mergeLinks to an external site. in the Pandas documentation.
 
 Support and Resources
