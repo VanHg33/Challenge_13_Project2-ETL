@@ -11,7 +11,7 @@ The instructions for this mini project are divided into the following subsection
   - Create the Contacts DataFrame
   - Create the Crowdfunding Database
     
-**Create the Category and Subcategory DataFrames**
+## Create the Category and Subcategory DataFrames
 
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
