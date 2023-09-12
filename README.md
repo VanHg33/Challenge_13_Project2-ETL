@@ -1,33 +1,18 @@
 # Challenge_13_Project2-ETL
+Extract, transform and load 
 
+# Background
 For the ETL mini project, you will work with a partner to practise building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
 
-Since this is a one-week project, make sure that you have done at least half of your project before the third day of class to stay on track.
-
-Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
-
-Files
-Download the starter code and files to help you get started:
-
-Project 2 ETL filesLinks to an external site.
-
-Before You Begin
-Create a new repository, named Crowdfunding_ETL, for this project. Do not add this homework to an existing repository.
-
-Clone the new repository to your computer.
-
-Rename the ETL_Mini_Project_Starter_Code.ipynb file with your first name initial and last name, for example, ETL_Mini_Project_NRomanoff.ipynb. Then, add this Jupyter notebook file and the Resources folder containing the crowdfunding.xlsx and the contacts.xlsx files to your repository.
-
-Push the changes to GitHub
-
-Instructions
+# Instructions
 The instructions for this mini project are divided into the following subsections:
+  - Create the Category and Subcategory DataFrames
+  - Create the Campaign DataFrame
+  - Create the Contacts DataFrame
+  - Create the Crowdfunding Database
+    
+**Create the Category and Subcategory DataFrames**
 
-Create the Category and Subcategory DataFrames
-Create the Campaign DataFrame
-Create the Contacts DataFrame
-Create the Crowdfunding Database
-Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
 A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
